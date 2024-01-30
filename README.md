@@ -1,4 +1,4 @@
-# gravity 🚀
+# `🚀` gravity
 
 This is an under-the-radar repository for a secret project named `Gravity`.
 
